@@ -1,0 +1,42 @@
+C:\Users\jonat\Desktop\Ejemplo_POO_Consola\Ejemplo_POO_Consola\bin\Debug\Ejemplo_POO_Consola.exe.config
+C:\Users\jonat\Desktop\Ejemplo_POO_Consola\Ejemplo_POO_Consola\bin\Debug\Ejemplo_POO_Consola.exe
+C:\Users\jonat\Desktop\Ejemplo_POO_Consola\Ejemplo_POO_Consola\bin\Debug\Ejemplo_POO_Consola.pdb
+C:\Users\jonat\Desktop\Ejemplo_POO_Consola\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\Ejemplo_POO_Consola\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Ejemplo_POO_Consola\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.exe
+C:\Users\jonat\Desktop\Ejemplo_POO_Consola\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.pdb
+C:\Users\zunig\Desktop\universidad\progra avanzada\Ejemplo_POO_Consola\Ejemplo_POO_Consola\bin\Debug\Ejemplo_POO_Consola.exe.config
+C:\Users\zunig\Desktop\universidad\progra avanzada\Ejemplo_POO_Consola\Ejemplo_POO_Consola\bin\Debug\Ejemplo_POO_Consola.exe
+C:\Users\zunig\Desktop\universidad\progra avanzada\Ejemplo_POO_Consola\Ejemplo_POO_Consola\bin\Debug\Ejemplo_POO_Consola.pdb
+C:\Users\zunig\Desktop\universidad\progra avanzada\Ejemplo_POO_Consola\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.csproj.AssemblyReference.cache
+C:\Users\zunig\Desktop\universidad\progra avanzada\Ejemplo_POO_Consola\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.csproj.CoreCompileInputs.cache
+C:\Users\zunig\Desktop\universidad\progra avanzada\Ejemplo_POO_Consola\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.exe
+C:\Users\zunig\Desktop\universidad\progra avanzada\Ejemplo_POO_Consola\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.pdb
+D:\carmelo\The Escapists 2\hoteles\Hotel\Ejemplo_POO_Consola\bin\Debug\Ejemplo_POO_Consola.exe.config
+D:\carmelo\The Escapists 2\hoteles\Hotel\Ejemplo_POO_Consola\bin\Debug\Ejemplo_POO_Consola.exe
+D:\carmelo\The Escapists 2\hoteles\Hotel\Ejemplo_POO_Consola\bin\Debug\Ejemplo_POO_Consola.pdb
+D:\carmelo\The Escapists 2\hoteles\Hotel\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.csproj.AssemblyReference.cache
+D:\carmelo\The Escapists 2\hoteles\Hotel\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.csproj.CoreCompileInputs.cache
+D:\carmelo\The Escapists 2\hoteles\Hotel\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.exe
+D:\carmelo\The Escapists 2\hoteles\Hotel\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.pdb
+C:\UNIVERSIDAD\Programacion Avanzada\Semana  #3\Hotel\Ejemplo_POO_Consola\bin\Debug\Ejemplo_POO_Consola.exe.config
+C:\UNIVERSIDAD\Programacion Avanzada\Semana  #3\Hotel\Ejemplo_POO_Consola\bin\Debug\Ejemplo_POO_Consola.exe
+C:\UNIVERSIDAD\Programacion Avanzada\Semana  #3\Hotel\Ejemplo_POO_Consola\bin\Debug\Ejemplo_POO_Consola.pdb
+C:\UNIVERSIDAD\Programacion Avanzada\Semana  #3\Hotel\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.csproj.AssemblyReference.cache
+C:\UNIVERSIDAD\Programacion Avanzada\Semana  #3\Hotel\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.csproj.CoreCompileInputs.cache
+C:\UNIVERSIDAD\Programacion Avanzada\Semana  #3\Hotel\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.exe
+C:\UNIVERSIDAD\Programacion Avanzada\Semana  #3\Hotel\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.pdb
+C:\Users\zunig\Downloads\Hotel (1)\Hotel\Ejemplo_POO_Consola\bin\Debug\Ejemplo_POO_Consola.exe.config
+C:\Users\zunig\Downloads\Hotel (1)\Hotel\Ejemplo_POO_Consola\bin\Debug\Ejemplo_POO_Consola.exe
+C:\Users\zunig\Downloads\Hotel (1)\Hotel\Ejemplo_POO_Consola\bin\Debug\Ejemplo_POO_Consola.pdb
+C:\Users\zunig\Downloads\Hotel (1)\Hotel\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.csproj.AssemblyReference.cache
+C:\Users\zunig\Downloads\Hotel (1)\Hotel\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.csproj.CoreCompileInputs.cache
+C:\Users\zunig\Downloads\Hotel (1)\Hotel\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.exe
+C:\Users\zunig\Downloads\Hotel (1)\Hotel\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.pdb
+C:\Users\zunig\Desktop\universidad\progra avanzada\semana 5\Hotel-lista\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.csproj.AssemblyReference.cache
+C:\Users\zunig\Desktop\universidad\progra avanzada\semana 5\Hotel-lista\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.csproj.CoreCompileInputs.cache
+C:\Users\zunig\Desktop\universidad\progra avanzada\semana 5\Hotel-lista\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.exe
+C:\Users\zunig\Desktop\universidad\progra avanzada\semana 5\Hotel-lista\Ejemplo_POO_Consola\obj\Debug\Ejemplo_POO_Consola.pdb
+C:\Users\zunig\Desktop\universidad\progra avanzada\semana 5\Hotel-lista\Ejemplo_POO_Consola\bin\Debug\Ejemplo_POO_Consola.exe.config
+C:\Users\zunig\Desktop\universidad\progra avanzada\semana 5\Hotel-lista\Ejemplo_POO_Consola\bin\Debug\Ejemplo_POO_Consola.exe
+C:\Users\zunig\Desktop\universidad\progra avanzada\semana 5\Hotel-lista\Ejemplo_POO_Consola\bin\Debug\Ejemplo_POO_Consola.pdb
